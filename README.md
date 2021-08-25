@@ -1,10 +1,10 @@
 # README
 
 ## Introduction
-- 8th Computing Assignment of Numerical Analysis I(MACM 316) of SFU
+- 8th Computing Assignment of Numerical Analysis I(MACM 316) of SFU.
 - To implement a numberical solution of Kepler's problem.
 - For details, check `MACM316CA8.pdf`.
-- Instructor: Dr. Ben Adcock
+- Instructor: Dr. Ben Adcock.
 
 ## License
 
